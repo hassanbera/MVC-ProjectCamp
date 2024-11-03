@@ -1,0 +1,12 @@
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityLayer.dll.config
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityFramework.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityFramework.xml
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\obj\Debug\EntityLayer.csproj.AssemblyReference.cache
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\obj\Debug\EntityLa.DA06A3F2.Up2Date
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\EntityLayer\obj\Debug\EntityLayer.pdb

@@ -1,0 +1,17 @@
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\DataAcsessLayer.dll.config
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\DataAcsessLayer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\DataAcsessLayer.pdb
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityFramework.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityLayer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityLayer.pdb
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityLayer.dll.config
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityFramework.xml
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcsessLayer.csproj.AssemblyReference.cache
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcsessLayer.csproj.CoreCompileInputs.cache
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcse.F1C317C3.Up2Date
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcsessLayer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcsessLayer.pdb
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcsessLayer.Migrations.mig1.resources
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\DataAcsessLayer\obj\Debug\DataAcsessLayer.csproj.GenerateResource.cache

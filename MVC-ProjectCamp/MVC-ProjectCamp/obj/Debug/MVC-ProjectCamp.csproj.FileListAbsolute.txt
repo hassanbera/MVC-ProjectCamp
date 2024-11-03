@@ -77,3 +77,7 @@ C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\obj\Debug\MVC-Projec
 C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\obj\Debug\MVC-Proj.BD3D7A13.Up2Date
 C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\obj\Debug\MVC-ProjectCamp.dll
 C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\obj\Debug\MVC-ProjectCamp.pdb
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\bin\EntityFramework.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\bin\EntityFramework.SqlServer.dll
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\bin\EntityFramework.xml
+C:\Projects\MVC-ProjectCamp\MVC-ProjectCamp\MVC-ProjectCamp\bin\EntityFramework.SqlServer.xml
